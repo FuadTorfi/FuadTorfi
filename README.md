@@ -191,14 +191,14 @@ Repository
 
 ---
 
-# Certifications
+## Currently Learning
 
-Currently completing professional certifications in:
-
-- Microsoft Power BI
-- Data Analytics
+- Power BI
+- DAX
 - SQL
-- Business Intelligence
+- Microsoft Fabric
+- Power Query
+- Data Visualization
 
 ---
 

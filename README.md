@@ -1,230 +1,184 @@
-# Hi, I'm Fuad Torfi 👋
+# Hi, I'm Fuad Torfi
 
 ## Data Analyst | Power BI Developer | GIS Analyst
 
-I am passionate about transforming data into meaningful insights through interactive dashboards, business intelligence solutions, and geospatial analysis.
+I am an Adelaide-based data and GIS practitioner focused on transforming complex information into clear, interactive dashboards and spatial insights.
 
-Currently, I am expanding my portfolio by building real-world Power BI projects while continuously improving my skills in data analytics, SQL, and business intelligence.
+I build self-directed portfolio projects across healthcare, public safety, environmental risk and business performance using Power BI, SQL, Python, ArcGIS Pro and QGIS.
 
----
-
-# About Me
-
-- 📍 Adelaide, South Australia
-- 📊 Power BI Dashboard Developer
-- 🗺️ GIS & Spatial Data Analysis
-- 📈 Business Intelligence Enthusiast
-- 🌱 Currently learning SQL, advanced DAX and Microsoft Fabric
-- 💼 Seeking opportunities as a Data Analyst / Power BI Developer / Business Intelligence Analyst
+I am currently seeking opportunities as a Data Analyst, Power BI Developer, Business Intelligence Analyst or GIS Analyst.
 
 ---
 
-# Technical Skills
-
-## Business Intelligence
-
-- Power BI
-- DAX
-- Power Query (M)
-- Data Modelling
-- Dashboard Design
-- KPI Development
-- Data Storytelling
-
-## Data Analysis
-
-- Microsoft Excel
-- Data Cleaning
-- Data Transformation
-- Data Visualization
-- Statistical Reporting
-
-## GIS
-
-- ArcGIS Pro
-- QGIS
-- Spatial Analysis
-- Raster Analysis
-- Hydrology
-- Cartography
-
-## Programming
-
-- SQL (Learning)
-- Python
-- C#
-- Unity
-
----
-
-# Featured Projects
-
-## 🔥 South Australia Bushfire Power BI Dashboard
-
-Interactive Power BI dashboard analysing bushfire incidents across South Australia.
-
-### Features
-
-- Executive Dashboard
-- KPI Cards
-- Interactive Filters
-- Fire Trend Analysis
-- Regional Comparison
-- Professional Dashboard Design
-
-Repository
-
-➡️ https://github.com/FuadTorfi/SA-Bushfire-PowerBI-Dashboard
-
----
-
-## 🌊 South Australia Flood Risk Power BI Dashboard
-
-Business Intelligence dashboard analysing flood events, damage, evacuation, and flood risk.
-
-### Features
-
-- Risk Analysis
-- Interactive Maps
-- DAX Measures
-- Power Query
-- Dashboard Navigation
-- Executive Reporting
-
-Repository
-
-➡️ https://github.com/FuadTorfi/SA-Flood-Risk-PowerBI-Dashboard
-
----
-
-## 🦠 South Australia COVID-19 Surveillance Dashboard
-
-Interactive dashboard built using official SA Health surveillance data.
-
-### Features
-
-- Executive Dashboard
-- Clinical Analysis
-- Epidemiological Reporting
-- Interactive Visualizations
-- Custom DAX Measures
-- Healthcare Dashboard Design
-
-Repository
-
-➡️ https://github.com/FuadTorfi/SA-COVID19-Surveillance-Dashboard
-
----
-
-## 🗺️ Bushfire Risk Assessment (ArcGIS Pro)
-
-GIS project using spatial analysis to identify bushfire risk across South Australia.
-
-### Skills Used
-
-- Raster Analysis
-- Spatial Analyst
-- Buffer Analysis
-- Overlay Analysis
-- GIS Mapping
-
-Repository
-
-➡️ https://github.com/FuadTorfi/Bushfire-Risk-Assessment-ArcGIS
-
----
-
-## 🌊 Flood Risk Assessment (ArcGIS Pro)
-
-Spatial analysis project identifying flood-prone areas using GIS techniques.
-
-### Skills Used
-
-- DEM Analysis
-- Hydrology
-- Flow Accumulation
-- Euclidean Distance
-- Weighted Overlay
-
-Repository
-
-➡️ https://github.com/FuadTorfi/Flood-Risk-Assessment-ArcGIS
-
----
-
-# Tools & Technologies
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cs,git,github,vscode"/>
-
-</p>
+## Core Skills
 
 ### Business Intelligence
 
-- Microsoft Power BI
-- DAX
-- Power Query
-- Microsoft Excel
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Modelling
+* KPI Development
+* Interactive Dashboard Design
+* Data Visualisation
+* Data Storytelling
 
-### GIS
+### Data Analysis
 
-- ArcGIS Pro
-- QGIS
+* Microsoft Excel
+* Data Cleaning and Transformation
+* SQL — developing proficiency
+* Data Validation
+* Statistical Reporting
+* Business and Performance Reporting
 
-### Programming
+### GIS and Spatial Analysis
 
-- Python
-- SQL
-- C#
+* ArcGIS Pro
+* QGIS
+* Spatial Analysis
+* Raster Analysis
+* Hydrological Analysis
+* Weighted Overlay
+* Cartography
+* Geodatabase Management
 
----
+### Programming and Development
 
-# Currently Learning
-
-- Advanced DAX
-- SQL
-- Microsoft Fabric
-- Data Warehousing
-- Power BI Service
-- ETL Best Practices
-
----
-
-## Currently Learning
-
-- Power BI
-- DAX
-- SQL
-- Microsoft Fabric
-- Power Query
-- Data Visualization
-
----
-
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FuadTorfi&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FuadTorfi&layout=compact&theme=github_dark)
+* Python
+* SQL
+* C#
+* Git and GitHub
+* Visual Studio Code
+* Unity
 
 ---
 
-# Connect With Me
+## Featured Power BI Projects
 
-GitHub
+### [South Australia Bushfire Dashboard](https://github.com/FuadTorfi/SA-Bushfire-PowerBI-Dashboard)
 
-➡️ https://github.com/FuadTorfi
-➡️ Email: fuad.torfi@gmail.com
+Interactive Power BI dashboard analysing bushfire incidents across South Australia.
+
+**Key components:**
+
+* Executive KPI dashboard
+* Monthly fire trend analysis
+* Regional comparisons
+* Interactive maps, slicers and filters
+* Power Query data transformation
+* Custom DAX measures
 
 ---
 
-# Career Objective
+### [South Australia Flood Risk Dashboard](https://github.com/FuadTorfi/SA-Flood-Risk-PowerBI-Dashboard)
 
-My goal is to build data-driven solutions that help organisations make informed decisions through Business Intelligence, Power BI dashboards, and spatial analytics.
+Business intelligence dashboard examining flood events, estimated damage, evacuations and road closures.
 
-I am actively expanding my portfolio with practical projects across healthcare, environmental analysis, public safety, finance, retail, and business intelligence.
+**Key components:**
+
+* Flood risk and impact analysis
+* Interactive geographical visualisation
+* Regional performance comparisons
+* Dashboard navigation
+* Custom DAX calculations
+* Executive reporting layout
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+### [South Australia COVID-19 Surveillance Dashboard](https://github.com/FuadTorfi/SA-COVID19-Surveillance-Dashboard)
+
+Healthcare surveillance portfolio dashboard presenting demographic, epidemiological and clinical indicators.
+
+**Key components:**
+
+* Executive summary dashboard
+* Clinical severity analysis
+* Cases by age group and sex
+* Vaccination and infection-source analysis
+* Health risk factor reporting
+* Interactive filters and DAX measures
+
+---
+
+## Featured GIS Projects
+
+### [Bushfire Risk Assessment — ArcGIS Pro](https://github.com/FuadTorfi/Bushfire-Risk-Assessment-ArcGIS)
+
+Spatial analysis project identifying areas with elevated bushfire risk across South Australia.
+
+**Techniques used:**
+
+* Fire-history analysis
+* Buffer and proximity analysis
+* Raster analysis
+* Spatial overlays
+* Risk classification
+* Professional cartographic design
+
+---
+
+### [Flood Risk Assessment — ArcGIS Pro](https://github.com/FuadTorfi/Flood-Risk-Assessment-ArcGIS)
+
+GIS project identifying potentially flood-prone areas using terrain and hydrological analysis.
+
+**Techniques used:**
+
+* Digital Elevation Model analysis
+* Slope calculation
+* Flow accumulation
+* Euclidean distance to rivers
+* Raster reclassification
+* Weighted overlay modelling
+
+---
+
+## Current Project
+
+### Healthcare Improvement and Data Quality Dashboard
+
+Developing a multi-page Power BI portfolio solution for healthcare performance and improvement reporting.
+
+**Planned dashboard areas:**
+
+* Executive overview
+* Project portfolio and status
+* Budget monitoring
+* Benefits realisation
+* Improvement tracking
+* Data-quality issues by hospital
+* Severity and resolution-time analysis
+
+---
+
+## Current Professional Development
+
+* Advanced DAX
+* SQL querying
+* Microsoft Fabric
+* Power BI Service
+* Data warehousing
+* ETL best practices
+* Report testing and validation
+
+---
+
+## GitHub Statistics
+
+![Fuad Torfi's GitHub statistics](https://github-readme-stats.vercel.app/api?username=FuadTorfi\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+---
+
+## Portfolio Transparency
+
+These are self-directed learning and portfolio projects, not operational reports developed for government agencies, healthcare organisations or businesses.
+
+Projects may use public or synthetic sample data. AI tools have been used as learning and technical troubleshooting support. I personally built the dashboards and made the final analytical and design decisions.
+
+---
+
+## Contact
+
+* [GitHub](https://github.com/FuadTorfi)
+* [Email](mailto:fuad.torfi@gmail.com)
+* Adelaide, South Australia

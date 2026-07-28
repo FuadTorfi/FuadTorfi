@@ -63,6 +63,23 @@ I am currently seeking opportunities as a Data Analyst, Reporting Analyst, Power
 * Professional cartographic design
 
 ---
+## Education
+
+### Associate Degree in Computer Software Engineering
+
+Academic foundation in software development, programming, database concepts and information systems.
+
+---
+
+## Completed DataCamp Courses
+
+* Data Modeling in Power BI
+* Data Transformation in Power BI
+* Intermediate DAX in Power BI
+* Introduction to SQL Server
+
+---
+
 
 ## Featured Power BI Projects
 

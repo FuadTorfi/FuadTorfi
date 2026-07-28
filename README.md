@@ -83,7 +83,7 @@ Academic foundation in software development, programming, database concepts and 
 
 ## Featured Power BI Projects
 
-### [Hospital Performance Improvement Dashboard](https://github.com/FuadTorfi/Hospital-Performance-Improvement-Dashboard)
+### [Hospital Performance Improvement Dashboard](https://github.com/FuadTorfi/SA-Hospital-Performance-Improvement-Dashboard)
 
 Multi-page Power BI reporting solution simulating hospital performance, improvement-project monitoring and data-quality analysis.
 

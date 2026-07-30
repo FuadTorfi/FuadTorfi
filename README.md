@@ -2,17 +2,17 @@
 
 ## Data Analyst | Power BI Reporting | Business Intelligence
 
-I am an Adelaide-based data analyst focused on developing clear, interactive and decision-focused Power BI reports.
+I am an Adelaide-based data analyst focused on transforming complex data into clear, interactive and decision-focused Power BI reports.
 
-I build self-directed portfolio projects across healthcare, public safety, environmental risk and organisational performance. My work focuses on data preparation, data modelling, DAX calculations, KPI monitoring, trend analysis, data-quality reporting and executive dashboard design.
+I develop self-directed portfolio projects across healthcare, aged-care regulation, public safety, environmental risk and organisational performance. My work covers data preparation, dimensional modelling, DAX development, KPI monitoring, trend analysis, data-quality assessment and executive dashboard design.
 
-I also have experience with GIS and spatial analysis, which allows me to combine business reporting with geographical insights when required.
+I also have experience in GIS and spatial analysis, allowing me to integrate geographical insights into business and operational reporting when required.
 
-I am currently seeking opportunities as a Data Analyst, Reporting Analyst, Power BI Developer or Business Intelligence Analyst.
+I am currently seeking opportunities as a **Data Analyst, Reporting Analyst, Power BI Developer or Business Intelligence Analyst**.
 
 ---
 
-## Power BI and Reporting Skills
+## Core Power BI and Reporting Skills
 
 * Microsoft Power BI Desktop
 * Power Query
@@ -21,7 +21,7 @@ I am currently seeking opportunities as a Data Analyst, Reporting Analyst, Power
 * Star-schema design
 * KPI and target monitoring
 * Executive and operational reporting
-* Interactive dashboard design
+* Interactive dashboard development
 * Trend and variance analysis
 * Run-chart analysis
 * Statistical Process Control
@@ -41,9 +41,9 @@ I am currently seeking opportunities as a Data Analyst, Reporting Analyst, Power
 * Data cleaning and transformation
 * Exploratory data analysis
 * Performance and statistical reporting
-* Data validation
+* Data validation and reconciliation
 * Data-quality assessment
-* Trend identification
+* Trend and pattern identification
 * KPI interpretation
 * Business-focused insight development
 * SQL — developing proficiency
@@ -57,12 +57,13 @@ I am currently seeking opportunities as a Data Analyst, Reporting Analyst, Power
 * QGIS
 * Spatial and raster analysis
 * Hydrological analysis
-* Weighted overlay modelling
+* Weighted-overlay modelling
 * Proximity and buffer analysis
 * Geodatabase management
 * Professional cartographic design
 
 ---
+
 ## Education
 
 ### Associate Degree in Computer Software Engineering
@@ -80,12 +81,35 @@ Academic foundation in software development, programming, database concepts and 
 
 ---
 
-
 ## Featured Power BI Projects
+
+### [Aged Care Quality and Compliance Dashboard](https://github.com/FuadTorfi/Aged-Care-Quality-and-Compliance-Dashboard)
+
+Multi-page Power BI reporting solution analysing simulated aged-care provider performance, complaints, compliance and corrective actions.
+
+**Key components:**
+
+* Executive overview of quality and compliance indicators
+* Provider and state-level performance comparisons
+* Complaint volume, status, priority and category analysis
+* Average complaint-resolution time
+* Compliance-rate monitoring
+* Compliant-provider identification
+* Open and overdue corrective-action reporting
+* Monthly compliance trends and target comparison
+* Corrective-action status analysis
+* Detailed investigation tables
+* Interactive date, state and provider filters
+* Power Query transformations
+* Relational data modelling
+* Custom DAX measures
+* Data validation and report testing
+
+---
 
 ### [Hospital Performance Improvement Dashboard](https://github.com/FuadTorfi/SA-Hospital-Performance-Improvement-Dashboard)
 
-Multi-page Power BI reporting solution simulating hospital performance, improvement-project monitoring and data-quality analysis.
+Multi-page Power BI solution simulating hospital performance reporting, improvement-project monitoring and data-quality analysis.
 
 **Key components:**
 
@@ -106,13 +130,13 @@ Multi-page Power BI reporting solution simulating hospital performance, improvem
 
 ### [South Australia COVID-19 Surveillance Dashboard](https://github.com/FuadTorfi/SA-COVID19-Surveillance-Dashboard)
 
-Healthcare surveillance dashboard analysing demographic, epidemiological and clinical indicators.
+Healthcare surveillance dashboard analysing simulated demographic, epidemiological and clinical indicators.
 
 **Key components:**
 
 * Executive summary reporting
 * Cases by age group and sex
-* Clinical severity analysis
+* Clinical-severity analysis
 * Vaccination-status reporting
 * Infection-source analysis
 * Health-risk factor reporting
@@ -128,8 +152,8 @@ Power BI report examining flood events, estimated damage, evacuations and road c
 **Key components:**
 
 * Executive KPI reporting
-* Flood risk and impact analysis
-* Regional performance comparisons
+* Flood-risk and impact analysis
+* Regional comparisons
 * Interactive geographical visualisation
 * Trend and category analysis
 * Report navigation
@@ -145,7 +169,7 @@ Interactive Power BI dashboard analysing bushfire incidents across South Austral
 **Key components:**
 
 * Executive KPI dashboard
-* Monthly fire trend analysis
+* Monthly fire-trend analysis
 * Regional comparisons
 * Interactive maps and slicers
 * Power Query data preparation
@@ -162,7 +186,24 @@ Spatial risk-assessment project using fire history, proximity analysis, raster p
 
 ### [Flood Risk Assessment — ArcGIS Pro](https://github.com/FuadTorfi/Flood-Risk-Assessment-ArcGIS)
 
-Terrain and hydrological analysis project using elevation data, slope, flow accumulation, river proximity, raster reclassification and weighted overlay modelling.
+Terrain and hydrological analysis project using elevation data, slope, flow accumulation, river proximity, raster reclassification and weighted-overlay modelling.
+
+---
+
+## Project Development Approach
+
+For each portfolio project, I follow a structured reporting workflow:
+
+1. Define the reporting purpose, audience and key business questions.
+2. Review the source data and identify quality issues.
+3. Clean, standardise and transform the data using Power Query.
+4. Design relationships and dimensional data models.
+5. Develop reusable DAX measures and KPI logic.
+6. Build accessible, interactive report pages.
+7. Validate calculations against source data.
+8. Test slicers, filters, relationships and visual interactions.
+9. Document the methodology, measures and limitations.
+10. Present findings through clear management-focused insights.
 
 ---
 
@@ -176,7 +217,7 @@ Terrain and hydrological analysis project using elevation data, slope, flow accu
 * ETL best practices
 * Report performance optimisation
 * Report testing and validation
-* Business requirements analysis
+* Business-requirements analysis
 
 ---
 
@@ -197,9 +238,11 @@ Terrain and hydrological analysis project using elevation data, slope, flow accu
 
 ## Portfolio Transparency
 
-These are self-directed learning and portfolio projects rather than operational reports developed for government agencies, healthcare organisations or businesses.
+These are self-directed learning and portfolio projects. They are not operational reports developed for government agencies, healthcare organisations or businesses.
 
-The projects use public or simulated datasets. I personally develop the data models, Power Query transformations, DAX measures, analytical logic, report layouts and final dashboard designs. AI tools may be used for learning and technical troubleshooting support.
+The projects use public or simulated datasets. Provider names, organisational details and reported figures within simulated projects are fictional and created solely for demonstration.
+
+I personally develop the data models, Power Query transformations, DAX measures, analytical logic, report structures and dashboard designs. AI tools may be used to support learning, technical troubleshooting and documentation; final implementation and validation are completed by me.
 
 ---
 
